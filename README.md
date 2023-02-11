@@ -3,9 +3,7 @@
 <h1> Phones store Demo </h1>
 
 
-
-
-https://user-images.githubusercontent.com/119087772/218283440-c0b1722f-ca65-4c14-ab50-344c8d80af16.mp4
+https://user-images.githubusercontent.com/119087772/218283539-3496d17b-0033-4d08-afcf-a44d9946c5a7.mp4
 
 
 
