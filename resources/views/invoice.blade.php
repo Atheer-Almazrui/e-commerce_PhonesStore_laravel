@@ -8,7 +8,7 @@ hr {
 }
 </style>
 
-<div class="container my-5">
+<div class="container my-5 pb-5">
 
     <h1 class="text-white mb-4">Thank for your purchase !</h1>
 
